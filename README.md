@@ -5,10 +5,10 @@
 <img src="https://img.shields.io/badge/-Discord%20Bot-gray.svg?style=for-the-badge&logo=discord"/>
 </p>
 <p align="center">
-<a href="https://github.com/FaizBastomi"><img src="https://img.shields.io/badge/AUTHOR-FAIZBASTOMI-red.svg?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/AzadRane"><img src="https://img.shields.io/badge/AUTHOR-AzadRane-red.svg?style=for-the-badge&logo=github"/></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/faizbastomi/kaguya-bot"><img src="https://www.codefactor.io/repository/github/faizbastomi/kaguya-bot/badge?style=flat-square" alt="CodeFactor" /></a>
+<a href="https://www.codefactor.io/repository/github/azadrane/koyamibot"><img src="https://www.codefactor.io/repository/github/faizbastomi/kaguya-bot/badge?style=flat-square" alt="CodeFactor" /></a>
 </p>
 
 <div align="center">
@@ -19,10 +19,10 @@
 
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFaizBastomi%2Fkaguya-bot&count_bg=%2379C83D&title_bg=%23555555&icon=discord.svg&icon_color=%23876EFF&title=Visitor&edge_flat=true" alt="Visitor"/>
-<a href="https://instagram.com/faiz_bastomy" target="_blank"><img src="https://img.shields.io/badge/Follow-Instagram-orange.svg?style=flat-square&logo=instagram"/></a>
+<a href="https://www.instagram.com/1.harish.r/" target="_blank"><img src="https://img.shields.io/badge/Follow-Instagram-orange.svg?style=flat-square&logo=instagram"/></a>
 </p>
 
-<h1 align="center">Kaguya Bot</h1>
+<h1 align="center">Koyami Bot</h1>
 
 Simple NSFW Discord Bot.<br />
 Thanks to [CF's API](https://api.computerfreaker.cf) and [Tobz API](https://tobz-api.herokuapp.com)<br />
@@ -37,8 +37,8 @@ This Project Need NodeJS 14x
 
 ### Cloning
 ```sh
-> git clone https://github.com/FaizBastomi/kaguya-bot.git
-> cd kaguya-bot
+> git clone https://github.com/AzadRane/Koyamibot.git
+> cd koyami-bot
 ```
 Install the dependencies:
 ```sh
@@ -78,9 +78,3 @@ Feel free to make a pull request.
 |   Math    |   Calculation Function    |   ✅    |
 
 ## Contributors
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/FaizBastomi" target="_blank"><img src="https://avatars3.githubusercontent.com/u/64179402?s=400&u=e571e59ee3bbc85379fccad978539ea0b926a9cb&v=4" width="100px;" alt=""/></a><br />
-<sub><b>Faiz Bastomi</b></sub><br /></td>
-  </tr>
-</table>
